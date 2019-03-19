@@ -10,8 +10,8 @@
  * Plugin Name: Turbo SEO
  * Description: 
  * Author:      Dev Team Phonemetra
- * Author URI:  
- * Text Domain: 
+ * Author URI:  http://www.phonemetra.com
+ * Text Domain: wp-seo
  * Domain Path: 
  * License:     
  *
