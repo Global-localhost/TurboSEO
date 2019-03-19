@@ -1,12 +1,13 @@
 language: php
-os:
-  - linux
-
+dist: xenial
 sudo: false
 
 services:
-- mysql
+    - mysql
 
 branches:
   only:
-- master
+    - master
+
+notifications:
+email: true

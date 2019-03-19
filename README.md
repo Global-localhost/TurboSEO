@@ -1,4 +1,4 @@
-# TurboSEO
+# Turbo SEO
 
 [![Build Status](https://api.travis-ci.org/Phonemetra/turboseo.svg?branch=master)](https://travis-ci.org/Phonemetra/TurboSEO)
 [![License](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/Phonemetra/TurboSEO/blog/master/LICENSE)
