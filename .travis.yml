@@ -1,1 +1,12 @@
 language: php
+os:
+  - linux
+
+sudo: false
+
+services:
+- mysql
+
+branches:
+  only:
+- master
