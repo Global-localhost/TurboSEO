@@ -7,7 +7,7 @@
  */
 
  if ( ! defined( 'WPSEO_VERSION' ) ) {
-	define( 'WPSEO_VERSION', '1.00' );
+	define( 'WPSEO_VERSION', '1.0.0' );
 }
 
 if ( ! defined( 'WPSEO_PATH' ) ) {
