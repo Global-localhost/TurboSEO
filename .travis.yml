@@ -9,5 +9,11 @@ branches:
   only:
     - master
 
+jobs:
+  fast_finish: true
+  include:
+- php: 7.3
+  env: WP_VERSION=master PHPUNIT=1
+
 notifications:
 email: true
