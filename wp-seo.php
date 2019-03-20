@@ -8,8 +8,8 @@
  *
  * @wordpress-plugin
  * Plugin Name: Turbo SEO
- * Description: 
- * Author:      Dev Team Phonemetra
+ * Description: Turbo SEO  is a simple, fast and powerful SEO plugin for WordPress.
+ * Author:      Phonemetra
  * Author URI:  http://www.phonemetra.com
  * Text Domain: wp-seo
  * Domain Path: 
