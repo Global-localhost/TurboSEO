@@ -1,4 +1,4 @@
-# Turbo SEO
+<h1 align="center">Turbo SEO™</h1> 
 
 [![Build Status](https://api.travis-ci.org/Phonemetra/turboseo.svg?branch=master)](https://travis-ci.org/Phonemetra/TurboSEO)
 [![License](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/Phonemetra/TurboSEO/blog/master/LICENSE)
@@ -18,4 +18,3 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 
-Turbo SEO for WordPress
